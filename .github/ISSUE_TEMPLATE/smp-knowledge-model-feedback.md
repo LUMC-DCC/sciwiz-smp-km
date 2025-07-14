@@ -45,3 +45,23 @@ Please answer one or more of the following, if applicable:
 Anything else you'd like to share?
 
 <!-- More thoughts here -->
+
+## Suggested Labels
+Please suggest one or more labels that apply to this issue.  
+
+If you have **write access** to the repository, you can also attach these labels directly when you submit the issue.
+
+- [ ] `type:clarity` - Feedback about unclear or confusing language  
+- [ ] `type:content` - Feedback about question wording, relevance, missing content, etc.  
+- [ ] `type:duplicate` - Reports of overlapping or redundant questions  
+- [ ] `type:examples-needed` - Suggestions to add or improve examples, recommendations, or good answers  
+- [ ] `type:out-of-scope` - Feedback that doesn’t belong in the current KM scope  
+- [ ] `type:structure` - Feedback about the order, grouping, or layout of questions  
+
+- [ ] `priority:critical` - Needs urgent attention; serious flaw or gap  
+- [ ] `priority:important` - Should be addressed but not blocking  
+- [ ] `priority:minor` - Nice-to-have or low-impact feedback  
+
+- [ ] `question` - General question or clarification request  
+- [ ] `bug` - Something isn't working
+- [ ] `enhancement` - New feature or request
